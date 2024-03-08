@@ -12,7 +12,7 @@
 
     }
 
-    "failonstandarderror": {
+    "failOnStdErr": {
 
       "value": "false"
 
